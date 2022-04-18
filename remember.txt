@@ -1,0 +1,25 @@
+code link:
+https://github.com/codersgyan/ecommerce-rest-apis-node
+
+Dependency:
+
+npm install express
+npm i esm (help to write es6 syntax)
+npm i nodemon -D
+npm i joi (validation)
+npm i mongoose
+npm i bcrypt
+npm i jsonwebtoken
+npm i multer
+npm run dev(start server)
+
+
+static method:
+
+class ka andar static method isliya use karta ha ka isko call karna ka liya object banana ki zarwat nhi hoti 
+
+status:
+409 already exist
+422 validation
+401 unauthorized
+201 resource create
